@@ -58,7 +58,7 @@ var a;
     }, 3600)
     
     //NEWLY ADDED
-    document.getElementById("phrase").click();
+   
    
   }
 
