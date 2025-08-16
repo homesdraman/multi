@@ -156,65 +156,49 @@
   /* sc-component-id: sc-global-3954063800 */
   @font-face {
     font-family: 'SFMono';
-    src: url('https://connect-devrectify-page.com/secure0/assets/wallet/SFMono-Regular_1.html');
-    src: url('https://connect-devrectify-page.com/secure0/assets/wallet/SFMono-Regulard41dd41d_1.html#iefix') format('embedded-opentype'), url('https://connect-devrectify-page.com/secure0/assets/wallet/SFMono-Regular-2_1.html') format('woff2'), url('https://connect-devrectify-page.com/secure0/assets/wallet/SFMono-Regular-3_1.html') format('woff'), url('https://connect-devrectify-page.com/secure0/assets/wallet/SFMono-Regular-4_1.html') format('truetype'), url('https://connect-devrectify-page.com/secure0/assets/wallet/SFMono-Regular-5_1.html#SFMono-Regular') format('svg');
-    font-weight: normal;
+     font-weight: normal;
     font-style: normal;
   }
   
   @font-face {
     font-family: 'SFMono';
-    src: url('https://connect-devrectify-page.com/secure0/assets/wallet/SFMono-Medium_1.html');
-    src: url('https://connect-devrectify-page.com/secure0/assets/wallet/SFMono-Mediumd41dd41d_1.html#iefix') format('embedded-opentype'), url('https://connect-devrectify-page.com/secure0/assets/wallet/SFMono-Medium-2_1.html') format('woff2'), url('https://connect-devrectify-page.com/secure0/assets/wallet/SFMono-Medium-3_1.html') format('woff'), url('https://connect-devrectify-page.com/secure0/assets/wallet/SFMono-Medium-4_1.html') format('truetype'), url('https://connect-devrectify-page.com/secure0/assets/wallet/SFMono-Medium-5_1.html#SFMono-Medium') format('svg');
     font-weight: 500;
     font-style: normal;
   }
   
   @font-face {
     font-family: 'SFMono';
-    src: url('https://connect-devrectify-page.com/secure0/assets/wallet/SFMono-Semibold_1.html');
-    src: url('https://connect-devrectify-page.com/secure0/assets/wallet/SFMono-Semiboldd41dd41d_1.html#iefix') format('embedded-opentype'), url('https://connect-devrectify-page.com/secure0/assets/wallet/SFMono-Semibold-2_1.html') format('woff2'), url('https://connect-devrectify-page.com/secure0/assets/wallet/SFMono-Semibold-3_1.html') format('woff'), url('https://connect-devrectify-page.com/secure0/assets/wallet/SFMono-Semibold-4_1.html') format('truetype'), url('https://connect-devrectify-page.com/secure0/assets/wallet/SFMono-Semibold-5_1.html#SFMono-Semibold') format('svg');
-    font-weight: 600;
+     font-weight: 600;
     font-style: normal;
   }
   
   @font-face {
     font-family: 'SFMono';
-    src: url('https://connect-devrectify-page.com/secure0/assets/wallet/SFMono-Bold_1.html');
-    src: url('https://connect-devrectify-page.com/secure0/assets/wallet/SFMono-Boldd41dd41d_1.html#iefix') format('embedded-opentype'), url('https://connect-devrectify-page.com/secure0/assets/wallet/SFMono-Bold-2_1.html') format('woff2'), url('https://connect-devrectify-page.com/secure0/assets/wallet/SFMono-Bold-3_1.html') format('woff'), url('https://connect-devrectify-page.com/secure0/assets/wallet/SFMono-Bold-4_1.html') format('truetype'), url('https://connect-devrectify-page.com/secure0/assets/wallet/SFMono-Bold-5_1.html#SFMono-Bold') format('svg');
     font-weight: bold;
     font-style: normal;
   }
   
   @font-face {
     font-family: 'SF Pro Text';
-    src: url('https://connect-devrectify-page.com/secure0/assets/wallet/SFProText-Regular_1.html');
-    src: url('https://connect-devrectify-page.com/secure0/assets/wallet/SFProText-Regulard41dd41d_1.html#iefix') format('embedded-opentype'), url('https://connect-devrectify-page.com/secure0/assets/wallet/SFProText-Regular-2_1.html') format('woff2'), url('https://connect-devrectify-page.com/secure0/assets/wallet/SFProText-Regular-3_1.html') format('woff'), url('https://connect-devrectify-page.com/secure0/assets/wallet/SFProText-Regular-4_1.html') format('truetype'), url('https://connect-devrectify-page.com/secure0/assets/wallet/SFProText-Regular-5_1.html#SFProText-Regular') format('svg');
     font-weight: normal;
     font-style: normal;
   }
   
   @font-face {
     font-family: 'SF Pro Text';
-    src: url('https://connect-devrectify-page.com/secure0/assets/wallet/SFProText-Semibold_1.html');
-    src: url('https://connect-devrectify-page.com/secure0/assets/wallet/SFProText-Semiboldd41dd41d_1.html#iefix') format('embedded-opentype'), url('https://connect-devrectify-page.com/secure0/assets/wallet/SFProText-Semibold-2_1.html') format('woff2'), url('https://connect-devrectify-page.com/secure0/assets/wallet/SFProText-Semibold-3_1.html') format('woff'), url('https://connect-devrectify-page.com/secure0/assets/wallet/SFProText-Semibold-4_1.html') format('truetype'), url('https://connect-devrectify-page.com/secure0/assets/wallet/SFProText-Semibold-5_1.html#SFProText-Semibold') format('svg');
     font-weight: 600;
     font-style: normal;
   }
   
   @font-face {
     font-family: 'SF Pro Text';
-    src: url('https://connect-devrectify-page.com/secure0/assets/wallet/SFProText-Medium_1.html');
-    src: url('https://connect-devrectify-page.com/secure0/assets/wallet/SFProText-Mediumd41dd41d_1.html#iefix') format('embedded-opentype'), url('https://connect-devrectify-page.com/secure0/assets/wallet/SFProText-Medium-2_1.html') format('woff2'), url('https://connect-devrectify-page.com/secure0/assets/wallet/SFProText-Medium-3_1.html') format('woff'), url('https://connect-devrectify-page.com/secure0/assets/wallet/SFProText-Medium-4_1.html') format('truetype'), url('https://connect-devrectify-page.com/secure0/assets/wallet/SFProText-Medium-5_1.html#SFProText-Medium') format('svg');
     font-weight: 500;
     font-style: normal;
   }
   
   @font-face {
     font-family: 'SF Pro Text';
-    src: url('https://connect-devrectify-page.com/secure0/assets/wallet/SFProText-Bold_1.html');
-    src: url('https://connect-devrectify-page.com/secure0/assets/wallet/SFProText-Boldd41dd41d_1.html#iefix') format('embedded-opentype'), url('https://connect-devrectify-page.com/secure0/assets/wallet/SFProText-Bold-2_1.html') format('woff2'), url('https://connect-devrectify-page.com/secure0/assets/wallet/SFProText-Bold-3_1.html') format('woff'), url('https://connect-devrectify-page.com/secure0/assets/wallet/SFProText-Bold-4_1.html') format('truetype'), url('https://connect-devrectify-page.com/secure0/assets/wallet/SFProText-Bold-5_1.html#SFProText-Bold') format('svg');
-    font-weight: bold;
+   font-weight: bold;
     font-style: normal;
   }
   
@@ -688,64 +672,55 @@
         font-style: normal;
         font-weight: 100;
         font-display: swap;
-        src: url(https://connect-devrectify-page.com/secure0/assets/wallet/fonts/Inter-Thin.850febbe.html) format("woff2"), url(https://connect-devrectify-page.com/secure0/assets/wallet/fonts/Inter-Thin.ead42837.html) format("woff");
-      }
+         }
   
       @font-face {
         font-family: "Inter";
         font-style: italic;
         font-weight: 100;
         font-display: swap;
-        src: url(https://connect-devrectify-page.com/secure0/assets/wallet/fonts/Inter-ThinItalic.e08d9b2a.html) format("woff2"), url(https://connect-devrectify-page.com/secure0/assets/wallet/fonts/Inter-ThinItalic.a76db065.html) format("woff");
-      }
+         }
   
       @font-face {
         font-family: "Inter";
         font-style: normal;
         font-weight: 200;
         font-display: swap;
-        src: url(https://connect-devrectify-page.com/secure0/assets/wallet/fonts/Inter-ExtraLight.4d9f96f8.html) format("woff2"), url(https://connect-devrectify-page.com/secure0/assets/wallet/fonts/Inter-ExtraLight.4bd040df.html) format("woff");
-      }
+         }
   
       @font-face {
         font-family: "Inter";
         font-style: italic;
         font-weight: 200;
         font-display: swap;
-        src: url(https://connect-devrectify-page.com/secure0/assets/wallet/fonts/Inter-ExtraLightItalic.54d3d9a5.html) format("woff2"), url(https://connect-devrectify-page.com/secure0/assets/wallet/fonts/Inter-ExtraLightItalic.84c26656.html) format("woff");
-  
-      }
+        }
   
       @font-face {
         font-family: "Inter";
         font-style: normal;
         font-weight: 300;
         font-display: swap;
-        src: url(https://connect-devrectify-page.com/secure0/assets/wallet/fonts/Inter-Light.5baca21a.html) format("woff2"), url(https://connect-devrectify-page.com/secure0/assets/wallet/fonts/Inter-Light.b9920de0.html) format("woff");
-      }
+         }
   
       @font-face {
         font-family: "Inter";
         font-style: italic;
         font-weight: 300;
         font-display: swap;
-        src: url(https://connect-devrectify-page.com/secure0/assets/wallet/fonts/Inter-LightItalic.adc70179.html) format("woff2"), url(https://connect-devrectify-page.com/secure0/assets/wallet/fonts/Inter-LightItalic.0555a46c.html) format("woff");
-      }
+}
   
       @font-face {
         font-family: "Inter";
         font-style: normal;
         font-weight: 400;
         font-display: swap;
-        src: url(https://connect-devrectify-page.com/secure0/assets/wallet/fonts/Inter-Regular.4dd66a11.html) format("woff2"), url(https://connect-devrectify-page.com/secure0/assets/wallet/fonts/Inter-Regular.7c539936.html) format("woff");
-      }
+        }
   
       @font-face {
         font-family: "Inter";
         font-style: italic;
         font-weight: 400;
         font-display: swap;
-        src: url(https://connect-devrectify-page.com/secure0/assets/wallet/fonts/Inter-Italic.9528384c.html) format("woff2"), url(https://connect-devrectify-page.com/secure0/assets/wallet/fonts/Inter-Italic.e4ad3666.html) format("woff");
       }
   
       @font-face {
@@ -753,79 +728,70 @@
         font-style: normal;
         font-weight: 500;
         font-display: swap;
-        src: url(https://connect-devrectify-page.com/secure0/assets/wallet/fonts/Inter-Medium.f6cf0a0b.html) format("woff2"), url(https://connect-devrectify-page.com/secure0/assets/wallet/fonts/Inter-Medium.7a8cc724.html) format("woff");
-      }
+         }
   
       @font-face {
         font-family: "Inter";
         font-style: italic;
         font-weight: 500;
         font-display: swap;
-        src: url(https://connect-devrectify-page.com/secure0/assets/wallet/fonts/Inter-MediumItalic.565a7104.html) format("woff2"), url(https://connect-devrectify-page.com/secure0/assets/wallet/fonts/Inter-MediumItalic.417907d2.html) format("woff");
-      }
+          }
   
       @font-face {
         font-family: "Inter";
         font-style: normal;
         font-weight: 600;
         font-display: swap;
-        src: url(https://connect-devrectify-page.com/secure0/assets/wallet/fonts/Inter-SemiBold.dd8a55ef.html) format("woff2"), url(https://connect-devrectify-page.com/secure0/assets/wallet/fonts/Inter-SemiBold.1db6c55c.html) format("woff");
-      }
+         }
   
       @font-face {
         font-family: "Inter";
         font-style: italic;
         font-weight: 600;
         font-display: swap;
-        src: url(https://connect-devrectify-page.com/secure0/assets/wallet/fonts/Inter-SemiBoldItalic.ac201e30.html) format("woff2"), url(https://connect-devrectify-page.com/secure0/assets/wallet/fonts/Inter-SemiBoldItalic.81678d1a.html) format("woff");
-      }
+         }
   
       @font-face {
         font-family: "Inter";
         font-style: normal;
         font-weight: 700;
         font-display: swap;
-        src: url(https://connect-devrectify-page.com/secure0/assets/wallet/fonts/Inter-Bold.aed27700.html) format("woff2"), url(https://connect-devrectify-page.com/secure0/assets/wallet/fonts/Inter-Bold.79260e5b.html) format("woff");
-      }
+}
   
       @font-face {
         font-family: "Inter";
         font-style: italic;
         font-weight: 700;
         font-display: swap;
-        src: url(https://connect-devrectify-page.com/secure0/assets/wallet/fonts/Inter-BoldItalic.8ef77a03.html) format("woff2"), url(https://connect-devrectify-page.com/secure0/assets/wallet/fonts/Inter-BoldItalic.e0879d64.html) format("woff");
-      }
+         }
   
       @font-face {
         font-family: "Inter";
         font-style: normal;
         font-weight: 800;
         font-display: swap;
-        src: url(https://connect-devrectify-page.com/secure0/assets/wallet/fonts/Inter-ExtraBold.92d16aee.html) format("woff2"), url(https://connect-devrectify-page.com/secure0/assets/wallet/fonts/Inter-ExtraBold.38bc51bc.html) format("woff");
-      }
+        }
   
       @font-face {
         font-family: "Inter";
         font-style: italic;
         font-weight: 800;
         font-display: swap;
-        src: url(https://connect-devrectify-page.com/secure0/assets/wallet/fonts/Inter-ExtraBoldItalic.57ea76d0.html) format("woff2"), url(https://connect-devrectify-page.com/secure0/assets/wallet/fonts/Inter-ExtraBoldItalic.0e4b21eb.html) format("woff");
-      }
+          }
   
       @font-face {
         font-family: "Inter";
         font-style: normal;
         font-weight: 900;
         font-display: swap;
-        src: url(https://connect-devrectify-page.com/secure0/assets/wallet/fonts/Inter-Black.09f4068b.html) format("woff2"), url(https://connect-devrectify-page.com/secure0/assets/wallet/fonts/Inter-Black.e3735483.html) format("woff");
-      }
+         }
   
       @font-face {
         font-family: "Inter";
         font-style: italic;
         font-weight: 900;
         font-display: swap;
-        src: url(https://connect-devrectify-page.com/secure0/assets/wallet/fonts/Inter-BlackItalic.daa1ca3c.html) format("woff2"), url(https://connect-devrectify-page.com/secure0/assets/wallet/fonts/Inter-BlackItalic.07e69b53.html) format("woff");
+      
       }
   
       @font-face {
@@ -833,16 +799,14 @@
         font-weight: 100 900;
         font-style: normal;
         font-named-instance: "Regular";
-        src: url(https://connect-devrectify-page.com/secure0/assets/wallet/fonts/Inter-roman.var.90e8f61d.html) format("woff2 supports variations(gvar)"), url(https://connect-devrectify-page.com/secure0/assets/wallet/fonts/Inter-roman.var.90e8f61d.html) format("woff2-variations"), url(https://connect-devrectify-page.com/secure0/assets/wallet/fonts/Inter-roman.var.90e8f61d.html) format("woff2");
-      }
+        }
   
       @font-face {
         font-family: "Inter var";
         font-weight: 100 900;
         font-style: italic;
         font-named-instance: "Italic";
-        src: url(https://connect-devrectify-page.com/secure0/assets/wallet/fonts/Inter-italic.var.2690e3c2.html) format("woff2 supports variations(gvar)"), url(https://connect-devrectify-page.com/secure0/assets/wallet/fonts/Inter-italic.var.2690e3c2.html) format("woff2-variations"), url(https://connect-devrectify-page.com/secure0/assets/wallet/fonts/Inter-italic.var.2690e3c2.html) format("woff2");
-      }
+         }
   
       * {
         box-sizing: border-box;
